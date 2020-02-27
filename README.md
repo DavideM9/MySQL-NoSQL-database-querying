@@ -5,4 +5,4 @@ This is a first and simple approach in querying database using both SQL and NoSQ
 
 ![alt text](https://github.com/DavideM9/MySQL-NoSQL-database-querying/blob/master/Images/bokeh-wallpaper-hd-1080p-118656.jpg|width = 50)
 
-<img src="https://github.com/DavideM9/MySQL-NoSQL-database-querying/blob/master/Images/bokeh-wallpaper-hd-1080p-118656.jpg" >
+<img src="https://github.com/DavideM9/MySQL-NoSQL-database-querying/blob/master/Images/bokeh-wallpaper-hd-1080p-118656.jpg" height = 150 >
